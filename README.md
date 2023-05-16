@@ -15,7 +15,7 @@
 
 <p align="left">
   
-  <a href="jvmbworks@gmail.com" alt="Gmail">
+  <a href="mailto:jvmbworks@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-monteiro-benchimol-531a35216/" alt="Linkedin">
