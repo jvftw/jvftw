@@ -24,4 +24,4 @@
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonight&show_icons=true)](https://github.com/jvftw/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=jvftw&theme=tokyonight&show_icons=true)](https://github.com/jvftw/github-readme-stats)
