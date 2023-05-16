@@ -2,9 +2,8 @@
 
 <p align="left"> 
   My name is <strong>João</strong>.<br>
-  Computer Science Student
+  Computer Science Student, Social Media and Graphic Designer
   </p>
-
 
 <p align="left">
   💼 IT Intern at <strong>Hospital Beneficente Português</strong>
