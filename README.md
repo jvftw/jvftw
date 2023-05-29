@@ -6,7 +6,7 @@
   </p>
 
 <p align="left">
-  💼 IT Intern at <strong>Hospital Beneficente Português</strong>
+  💼 Former IT Intern at <strong>Hospital Beneficente Português</strong>
 </p>
 
 <p align="left">
