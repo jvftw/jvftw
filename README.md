@@ -7,6 +7,8 @@
 
 <p align="left">
   💼 Former IT Intern at <strong>Hospital Beneficente Português</strong>
+</p>
+<p align="left">
   💼  AWS Cloud Data Engineer Intern at <strong>compass.uol</strong>
 </p>
 
