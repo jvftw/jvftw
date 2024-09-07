@@ -6,7 +6,7 @@
   </p>
 
 <p align="left">
-  💼  AWS Cloud Data Engineer Intern at <strong>compass.uol</strong>
+  💼  Data Engineer
 </p>
 
 <p align="left">
